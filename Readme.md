@@ -2,7 +2,6 @@
 
 # Dev set up 
 ```
-mkvirtualenv featurebot_env --python 3.9
 pip install langchain
 pip install openai
 pip install streamlit
